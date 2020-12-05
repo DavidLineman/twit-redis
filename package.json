@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^10.0.4",
     "express": "^4.17.1",
+    "postcss": "^8.1.14",
     "pug": "^3.0.0",
-    "redis": "^3.0.2"
+    "redis": "^3.0.2",
+    "tailwindcss": "^2.0.1"
   }
 }
